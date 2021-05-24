@@ -19,6 +19,6 @@ class School
   
   def sort
     @roster.all
-    end
+  
   end
 end
